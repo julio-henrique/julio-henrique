@@ -1,4 +1,6 @@
-![Alt Text](https://c.tenor.com/VR7e9ogArgYAAAAC/lofi-lofigirl.gif)
+
+<img src="https://c.tenor.com/VR7e9ogArgYAAAAC/lofi-lofigirl.gif" width="200px">
+
 
 
 
