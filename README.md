@@ -1,5 +1,5 @@
  <p>
-       <img alt="All rights reserved to " src="https://tenor.com/view/lofi-lofigirl-writing-looking-outside-thingking-gif-15410807" />
+       <img alt="All rights reserved to " src="https://c.tenor.com/VR7e9ogArgYAAAAC/lofi-lofigirl.gif" />
 
  </p>
 
