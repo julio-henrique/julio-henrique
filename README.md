@@ -1,7 +1,6 @@
- <p>
-       <img width="300px" align="center" alt="All rights reserved to " src="https://c.tenor.com/VR7e9ogArgYAAAAC/lofi-lofigirl.gif" />
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
- </p>
+
 
 ### Oi - Hi there 👋
 
