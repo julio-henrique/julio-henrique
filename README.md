@@ -9,6 +9,4 @@
 
 - :closed_book: I'm fluent in	Portuguese pt/br - English 
 
-<a href="https://www.linkedin.com/in/julio-h" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white" />
-</a>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/julio-h){:target="_blank"}
