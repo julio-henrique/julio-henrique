@@ -5,15 +5,15 @@
 
 
 
-### Oi - Hi there 👋
+### Oi 👋
 
 
-- 🔭 I’m currently working on my projects
-- 🌱 I’m currently learning JAVASCRIPT, REACT, NodeJS, SQL
-- 👯 I’m looking to collaborate on any JS projects
-- 🤔 I’m looking for help with REACT & NodeJS
+- 🔭 Eu estou trabalhando nos meus projetos pessoais
+- 🌱 Atualmente eu estou aprendendo JAVASCRIPT, ReactJS, NextJS & NodeJS
+- 👯 Eu estou interessado em colaborar com qualquer projeto que envolva JavaScript
+- 🤔 E eu aceito ajuda com ReactJS, NextJS & NodeJS
 - Email - juliohjesus@gmail.com
 
-- :closed_book: I'm fluent in	Portuguese pt/br - English 
+- :closed_book: I'm fluent in	English 
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/julio-h)
