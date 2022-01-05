@@ -12,7 +12,7 @@
 - 🌱 Atualmente eu estou aprendendo JAVASCRIPT, ReactJS, NextJS & NodeJS
 - 👯 Eu estou interessado em colaborar com qualquer projeto que envolva JavaScript
 - 🤔 E eu aceito ajuda com ReactJS, NextJS & NodeJS
-- ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white) - juliohjesus@gmail.com
+- ![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white) - juliohjesus@gmail.com
 
 - :closed_book: I'm fluent in	English 
 
