@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="" src="https://c.tenor.com/PDvcHKkIewAAAAAd/lofi-hiphop-radio-beats-to-relax-study-to.gif" />
+  <img alt="" src="https://c.tenor.com/1VEnfKkMGikAAAAd/lofi-girl-music.gif" />
 </p>
 
 
