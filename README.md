@@ -8,10 +8,10 @@
 ### Oi 👋
 
 
-- 🔭 Eu estou trabalhando nos meus projetos pessoais
+- 🔭 Estou trabalhando nos meus projetos pessoais
 - 🌱 Atualmente eu estou aprendendo JAVASCRIPT, ReactJS, NextJS & NodeJS
 - 👯 Eu estou interessado em colaborar com qualquer projeto que envolva JavaScript
-- 🤔 E eu aceito ajuda com ReactJS, NextJS & NodeJS
+- 🤔 Aceito ajuda com ReactJS, NextJS & NodeJS :D
 - ![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white) - juliohjesus@gmail.com
 
 - :closed_book: I'm fluent in	English 
